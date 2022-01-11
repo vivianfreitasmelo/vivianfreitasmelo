@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, Eu sou a Vívian!</h1>
+<h1 align="center">Oi 👋, Eu sou a Vívian</h1>
 <h3 align="center">Sou uma cientista de dados.</h3>
 
 - 📫 Meu e-mail é **vivianfreitasmelo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/vivian-melo-79534713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vivian-melo-79534713/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vivian-melo-79534713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vivian-melo-79534713" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
